@@ -1,5 +1,6 @@
 package com.dksanServer.sohyeon.week2;
 
+import com.dksanServer.sohyeon.week3.model.Member;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
